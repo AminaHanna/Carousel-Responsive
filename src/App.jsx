@@ -20,7 +20,7 @@ function App() {
     },
     {
         // image: `/src/assets/shipcom.ee1ba5d2_o18LH.jpg`,
-        name: 'Mousse Cke',
+        name: 'Mousse Cake',
         image:"https://w.forfun.com/fetch/bb/bb492192c97ac90b240ab3381ece3926.jpeg",
         price: '220'
     },
